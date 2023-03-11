@@ -5,3 +5,4 @@
 | - | - | - | - |
 | Padawan | Fuel Spent | Beginner 1 | 1017 |
 | Padawan | The Motion Picture | Beginner 2 | 1963 |
+| Jedi Knight | Triangle Types | Beginner 4 | 1045 |
