@@ -1,11 +1,12 @@
 # Programming Marathon Training
 
 ## Challenges in order of completion
-| Training Level | Name | Beecrowd Level | Beecrowd Code |
+| Training Level | Beecrowd Code | Name | Beecrowd Level |
 | - | - | - | - |
-| Padawan | Fuel Spent | Beginner 1 | 1017 |
-| Padawan | The Motion Picture | Beginner 2 | 1963 |
-| Jedi Knight | Triangle Types | Beginner 4 | 1045 |
-| Jedi Knight | The Pronalândia Puzzle | Beginner 2 | 1984 |
-| Padawan | Taxes | Beginner 2 | 1051 |
-| Padawan | Jingle Composing | Data Structures and Libraries 2 | 1430 |
+| Padawan | 1017 | Fuel Spent | Beginner 1 |
+| Padawan | 1963 | The Motion Picture | Beginner 2 |
+| Jedi Knight | 1045 | Triangle Types | Beginner 4 |
+| Jedi Knight | 1984 | The Pronalândia Puzzle | Beginner 2 |
+| Padawan | 1051 | Taxes | Beginner 2 |
+| Padawan | 1430 | Jingle Composing | Data Structures and Libraries 2 |
+| Master Yoda | 1383 | Sudoku | Ad-Hoc 6 |
