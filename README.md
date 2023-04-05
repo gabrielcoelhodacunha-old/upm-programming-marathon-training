@@ -10,3 +10,4 @@
 | Padawan | 1051 | Taxes | Beginner 2 |
 | Padawan | 1430 | Jingle Composing | Data Structures and Libraries 2 |
 | Master Yoda | 1383 | Sudoku | Ad-Hoc 6 |
+| Master Yoda | 1870 | Fans and Balloons | Ad-Hoc 2 |
