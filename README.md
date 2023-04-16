@@ -12,3 +12,4 @@
 | Master Yoda | 1383 | Sudoku | Ad-Hoc 6 |
 | Master Yoda | 1870 | Fans and Balloons | Ad-Hoc 2 |
 | Master Yoda | 3139 | Seeking New Followers | Data Structures and Libraries 5 |
+| Master Yoda | 1083 | LEXSIM - Sintatic and Lexical Avaliator | Data Structures and Libraries 7 |
