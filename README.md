@@ -14,3 +14,4 @@
 | Master Yoda | 3139 | Seeking New Followers | Data Structures and Libraries 5 |
 | Master Yoda | 1083 | LEXSIM - Sintatic and Lexical Avaliator | Data Structures and Libraries 7 |
 | Master Yoda | 1251 | Tell me the Frequencies | Data Structures and Libraries 6 |
+| Master Yoda | 1401 | Generating Fast, Sorted Permutation | Data Structures and Libraries 4 |
